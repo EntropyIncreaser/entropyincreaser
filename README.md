@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello.
+
+Currently a competitive programmer in China. 
+
+- OI
+  - NOI 2019 **Gold Medal**
+  - NOI 2018 **Silver Medal**
+
+- Education
+  - (**2016 - now**) Affiliated High School Attached to Peking University
 
 <!--
 **EntropyIncreaser/entropyincreaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
