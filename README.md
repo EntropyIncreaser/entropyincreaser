@@ -3,6 +3,7 @@
 Currently a competitive programmer in China. 
 
 - OI
+  - NOI 2020 **Gold Medal**
   - NOI 2019 **Gold Medal**
   - NOI 2018 **Silver Medal**
 
