@@ -3,6 +3,7 @@
 Currently a competitive programmer in China. 
 
 - OI
+  - **Retired** since CTS 2021 **15th Place**
   - NOI 2020 **Gold Medal**
   - NOI 2019 **Gold Medal**
   - NOI 2018 **Silver Medal**
