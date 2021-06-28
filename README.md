@@ -9,7 +9,7 @@ Currently a competitive programmer in China.
   - NOI 2018 **Silver Medal**
 
 - Education
-  - (**2016 - now**) Affiliated High School Attached to Peking University
+  - (2016 - 2021) Affiliated High School Attached to Peking University
 
 <!--
 **EntropyIncreaser/entropyincreaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
