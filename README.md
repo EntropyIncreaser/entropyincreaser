@@ -10,6 +10,7 @@ Currently a competitive programmer in China.
 
 - Education
   - (2016 - 2021) Affiliated High School Attached to Peking University
+  - (2021 -) Tsinghua University
 
 <!--
 **EntropyIncreaser/entropyincreaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
