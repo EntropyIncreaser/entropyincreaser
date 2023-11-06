@@ -1,6 +1,6 @@
 ### Hello.
 
-Currently a competitive programmer in China. 
+Currently an undergraduate student at Tsinghua University, interested in theoretical computer science. My main focus is on algorithms and complexity theory, especially those topics involving algebraic computation. I also like competitive programming, though I'm almost retired from that.
 
 - OI
   - **Retired** since CTS 2021 **15th Place**
